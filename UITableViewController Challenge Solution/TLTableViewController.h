@@ -1,5 +1,5 @@
 //
-//  TLViewController.h
+//  TLTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ty Ly-Tran on 5/14/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TLViewController : UIViewController
+@interface TLTableViewController : UITableViewController
 
 @end
